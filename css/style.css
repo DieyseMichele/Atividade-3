@@ -1,0 +1,32 @@
+#corpo
+{
+	margin: 0 auto;
+}
+#pai div
+{
+	display: none;
+}
+#logo
+{
+	margin-top: 10px;
+}
+img
+{
+	width: 150px;
+	height: 100px;
+}
+fieldset
+{
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 2px;
+  background-color:#FFFFFF;
+  
+}
+legend
+{
+  font-style:bold;
+  font-family: “Segoe UI”,”Arial”,”Times New Roman”;
+  margin-left:100px;
+}
